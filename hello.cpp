@@ -6,6 +6,6 @@
 using namespace std;
 
 int main() {
-    cout << "Hello from GitHub! My first commit works." << endl;
+    cout << "Hello from GitHub! My first commit works. The repository is to store files, code, and revision history for a specific project. The secondary branch is to create a seperate work flow from the main files from what I understand." << endl;
     return 0;
 }
